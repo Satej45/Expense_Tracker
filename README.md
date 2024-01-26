@@ -16,10 +16,9 @@ The Expense Tracker in Python is a simple command-line application designed to h
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Expense-Tracker-in-Python.git
+   git clone https://github.com/Satej45/Expense_Tracker.git
    cd Expense-Tracker-in-Python
 
 Run the application:
-python expense_tracker.py
-
-Interact with the command-line menu to record expenses, view spending patterns, and save/load data.
+   ```bash
+      python expense_tracker.py
